@@ -1,0 +1,6 @@
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\PayCalc\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe.config
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\PayCalc\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\PayCalc\PayCalculator\PayCalculator\bin\Debug\PayCalculator.pdb
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\PayCalc\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\PayCalc\PayCalculator\PayCalculator\obj\Debug\PayCalculator.exe
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\PayCalc\PayCalculator\PayCalculator\obj\Debug\PayCalculator.pdb
